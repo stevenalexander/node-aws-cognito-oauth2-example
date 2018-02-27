@@ -11,7 +11,12 @@
     "cookie-parser": "~1.4.3",
     "debug": "~2.6.9",
     "express": "~4.15.5",
+    "express-session": "^1.15.6",
+    "jsonwebtoken": "^8.1.1",
+    "jwk-to-pem": "^1.2.6",
     "morgan": "~1.9.0",
+    "passport": "^0.4.0",
+    "passport-oauth2": "^1.4.0",
     "pug": "2.0.0-beta11",
     "serve-favicon": "~2.4.5"
   },
